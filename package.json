@@ -1,0 +1,27 @@
+{
+  "name": "emmo-model-cli",
+  "version": "1.0.0",
+  "description": "Global CLI package for emmo-model",
+  "main": "bin/em.js",
+  "bin": {
+    "em": "bin/em.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/klesh/emmo-model-cli.git"
+  },
+  "keywords": [
+    "em",
+    "emmo-model",
+    "orm",
+    "migrate",
+    "migration"
+  ],
+  "author": "Klesh Wong",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/klesh/emmo-model-cli/issues"
+  },
+  "homepage": "https://github.com/klesh/emmo-model-cli#readme",
+  "preferGlobal": "true" 
+}
